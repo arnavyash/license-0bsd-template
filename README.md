@@ -28,6 +28,9 @@ public-domain equivalent license.
 - Either fork or use the repository as a Github template.
 - Replace all instances of `<authors>` with either your name or text such as
   `Contributors of Project <name>`.
+- Either replace `[<email>]` with your personal or project email enclosed
+  within angle brackets (\<, \>), such as `<email@example.com>` or just
+  remove `[<email>]` if you don't want it.
 
 ## Contributing
 
@@ -37,7 +40,7 @@ additional terms or conditions.
 
 ## License
 
-Copyright (c) `<authors>`
+&copy; \<year\> \<authors\> [\<email\>]
 
 Licensed under BSD Zero Clause License.
 
