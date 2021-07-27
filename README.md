@@ -42,7 +42,8 @@ additional terms or conditions.
 
 &copy; \<year\> \<authors\> [\<email\>]
 
-Licensed under BSD Zero Clause License.
+Licensed under the BSD Zero Clause License. See [LICENSE file](LICENSE.md) file
+in the project root, or https://opensource.org/licenses/0BSD for full license information.
 
 ```
 SPDX-License-Identifier: 0BSD
